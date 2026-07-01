@@ -1,3 +1,6 @@
+#INSTALAR O PYGAME, no terminal
+#pip install pygame-ce
+
 import pygame
 import sys
 import random
